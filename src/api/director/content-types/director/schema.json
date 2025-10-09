@@ -35,6 +35,9 @@
     },
     "Link": {
       "type": "string"
+    },
+    "Haha": {
+      "type": "string"
     }
   }
 }
